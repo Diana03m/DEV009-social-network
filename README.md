@@ -1,7 +1,4 @@
-# Creando una Red Social
-
-## Índice
-
+# SisterSphere "Kawaii Lovers"
 ## Índice
 1. Definición del producto. 
 2. ¿Quienes son los principales usuarios del producto?
