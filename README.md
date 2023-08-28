@@ -6,7 +6,7 @@
 4. Historias de usuario (criterios de aceptación).
 5. Diseños de baja fidelidad. 
 6. Diseño de alta fidelidad (link figma).
-7. Pruebas unitarias. 
+7. Test Usabilidad
 8. Sitio Final
 
 ## 1. Definición del producto. 
@@ -102,11 +102,21 @@ Definición de Terminado:
 * [✔️] y al clickear para quitar el like se debe actualizar para que se quite el like
 
 ## 5. Diseños de baja fidelidad. 
-![Prototipo de Baja Fidelidad](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/PrototipoSN.JPG){:width="450"}
+![Prototipo de Baja Fidelidad](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/PrototipoSN.JPG)
 
 ## 6. Diseño de alta fidelidad (link figma).
 [link figma dinamico](https://www.figma.com/proto/Ucj1nqp6FXmw3dbFFEy8n0/Movile-KawaiiApp?node-id=3-96&starting-point-node-id=3%3A96)
 
-## 7. Pruebas unitarias.
+## 7. Test Usabilidad.
+Para obtener una comprensión más profunda de las necesidades y deseos de los usuarios, llevamos a cabo una serie de pruebas de usabilidad con usuarios reales. En la primera etapa, compartimos un prototipo de baja fidelidad con los usuarios y les pedimos que compartieran su experiencia al ver nuestro prototipo.
+
+En la siguiente fase, presentamos un prototipo de alta fidelidad mediante un enlace a un diseño interactivo en Figma. Los usuarios tuvieron la oportunidad de explorar la interfaz de usuario más refinada y realizar tareas específicas. A través de esta interacción, recopilamos información detallada sobre la apariencia visual, la usabilidad y la experiencia general del usuario.
+
+![Test Usabilidad](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/testusabilidad.jpeg)
+
 
 ## 8. Sitio Final
+![FotosSitioFinal](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/final1.jpeg)
+![FotosSitioFinal](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/final2.jpeg)
+![FotosSitioFinal](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/final3.jpeg)
+![FotosSitioFinal](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/final4.jpeg)
