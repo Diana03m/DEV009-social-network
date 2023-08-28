@@ -112,7 +112,7 @@ Para obtener una comprensión más profunda de las necesidades y deseos de los u
 
 En la siguiente fase, presentamos un prototipo de alta fidelidad mediante un enlace a un diseño interactivo en Figma. Los usuarios tuvieron la oportunidad de explorar la interfaz de usuario más refinada y realizar tareas específicas. A través de esta interacción, recopilamos información detallada sobre la apariencia visual, la usabilidad y la experiencia general del usuario.
 
-![Test Usabilidad](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/testusabilidad.jpeg)
+![Test Usabilidad](https://github.com/Diana03m/DEV009-social-network/blob/main/src/recursos/testusabilidad.JPG)
 
 
 ## 8. Sitio Final
